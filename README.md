@@ -5,7 +5,7 @@ Prestashop es un CMS diseñado especialmente para la creación y gestión de tie
 ​
 ## Requisitos
 - Versión mínima Prestashop: 1.7.8.2
-- Versión mínima de PHP para el plugin: 7.5
+- Versión mínima de PHP para el plugin: 7.0.0
 ​
 ​
 ## Instalación
